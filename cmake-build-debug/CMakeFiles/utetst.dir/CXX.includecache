@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sadat/CLionProjects/utetst/BST.cpp
+BST.h
+C:/Users/Sadat/CLionProjects/utetst/BST.h
+
+C:/Users/Sadat/CLionProjects/utetst/BST.h
+iostream
+-
+
+C:/Users/Sadat/CLionProjects/utetst/main.cpp
+iostream
+-
+BST.h
+C:/Users/Sadat/CLionProjects/utetst/BST.h
+
